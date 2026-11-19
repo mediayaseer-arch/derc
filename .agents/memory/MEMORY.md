@@ -1,0 +1,1 @@
+- [Imported setup constraints](imported-setup.md) — preserve the imported stack; pnpm self-installation caused recursive failures in this environment.

@@ -1,0 +1,7 @@
+# Copy to .dev.vars for `pnpm dev:cloudflare`.
+# Never commit real credentials.
+
+SUPABASE_URL=https://qhavqbhdctfucapxuyti.supabase.co
+SUPABASE_SECRET_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFoYXZxYmhkY3RmdWNhcHh1eXRpIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4NTg1MTgxMywiZXhwIjoyMTAxNDI3ODEzfQ.dwdKJmfh3RS2exGSC4ntdBM9NAio9WIyYs-s2Q42hYs
+ADMIN_EMAILS=
+RAPIDAPI_BIN_KEY=

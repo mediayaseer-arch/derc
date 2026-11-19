@@ -1,0 +1,8 @@
+{
+  "name": "الدرعية | Diriyah",
+  "description": "اكتشف تجارب الدرعية ومطل البجيري والمطاعم والمقاهي والفعاليات، ثم احجز زيارتك بسهولة عبر المنصة الرسمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
